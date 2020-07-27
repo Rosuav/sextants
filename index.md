@@ -3,7 +3,7 @@
 <style>
 a ~ em {
 	display: block;
-	margin-top: -0.25em;
+	margin-top: -0.2em;
 	font-size: 90%;
 }
 </style>
@@ -17,29 +17,29 @@ children by creating things for them. Just like a programmer, Elsa loves using
 her special skills to benefit other people, especially those she cares about.
 Some things she does are pretty easy and straight-forward.
 
-[![Creating an ice dinosaur](thumb025.png)](frame025.png)<br>
+[![Creating an ice dinosaur](thumb025.png)](frame025.png)
 _Elsa has made an ice dinosaur for one young lad, and creates a bear for another._
 
-[![A custom request](thumb049.png)](frame049.png)<br>
+[![A custom request](thumb049.png)](frame049.png)
 _A young girl has a special request: "Can you make a sextant?"_
 
-[![Dubious whether she can do this!](thumb067.png)](frame067.png)<br>
+[![Dubious whether she can do this!](thumb067.png)](frame067.png)
 _"A what? Errr.... I think so? Let me see what I can do..."_
 
 Elsa's worried that she can't do justice to this request. What if it doesn't
 work? What if it's not good enough? What if I disappoint her? I have to try...
 
-[![The work of creation](thumb090.png)](frame090.png)<br>
+[![The work of creation](thumb090.png)](frame090.png)
 _"I really don't know if this is going to work..."_
 
-[![Delivering the finished product](thumb111.png)](frame111.png)<br>
-_Outwardly: "Here, I made this for you!"_<br>
+[![Delivering the finished product](thumb111.png)](frame111.png)
+_Outwardly: "Here, I made this for you!"_
 _Inwardly: "Oh please like it please like it please like it"_
 
-[![Seeing it used for the first time](thumb126.png)](frame126.png)<br>
+[![Seeing it used for the first time](thumb126.png)](frame126.png)
 _Moment of truth! It's being tried out for the first time._
 
-[![Joy!](thumb150.png)](frame150.png)<br>
+[![Joy!](thumb150.png)](frame150.png)
 _"Yes!! She likes it!!"_
 
 Observe Elsa's facial expressions during this tiny moment - it's about six
