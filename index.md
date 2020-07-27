@@ -6,6 +6,7 @@ a ~ em {
 	margin-top: -0.2em;
 	font-size: 90%;
 }
+section.page-header {display: none;} /* Don't need the header, tbh */
 </style>
 
 I'm a computer programmer. I love coding, it's my life, it's my passion. I'm
