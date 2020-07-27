@@ -9,8 +9,8 @@ children by creating things for them. Just like a programmer, Elsa loves using
 her special skills to benefit other people, especially those she cares about.
 Some things she does are pretty easy and straight-forward.
 
-[![Creating an ice dinosaur](thumb025.png)](frame025.png)
-Elsa has made an ice dinosaur for one young lad, and creates a bear for another.
+[![Creating an ice dinosaur](thumb025.png)](frame025.png)<br>
+_Elsa has made an ice dinosaur for one young lad, and creates a bear for another._
 
 ![thumb049.png](frame049.png)
 A young girl has a special request: "Can you make a sextant?"
