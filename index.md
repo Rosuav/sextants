@@ -9,7 +9,7 @@ children by creating things for them. Just like a programmer, Elsa loves using
 her special skills to benefit other people, especially those she cares about.
 Some things she does are pretty easy and straight-forward.
 
-![thumb025.png](frame025.png)
+[![Creating an ice dinosaur](thumb025.png)](frame025.png)
 Elsa has made an ice dinosaur for one young lad, and creates a bear for another.
 
 ![thumb049.png](frame049.png)
