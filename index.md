@@ -8,7 +8,11 @@ a ~ em {
 }
 </style>
 
-[TODO: Write an introduction.]
+I'm a computer programmer. I love coding, it's my life, it's my passion. I'm
+happy to code for other people, and usually not ask for any compensation, but
+some people offer the very best compensation ever: appreciation and usage.
+Knowing that you like something and that it's useful to you is the very best
+reward I can ever be given. This is a few of those "sextant moments" from 2020.
 
 ## Why "sextant"?
 
